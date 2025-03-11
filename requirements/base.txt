@@ -1,0 +1,4 @@
+sqlmodel==0.0.24
+fastapi==0.115.11
+fastapi-cli==0.0.7
+Pint==0.24.4
